@@ -16,7 +16,6 @@ The plugin allows to create content spoilers with simple shortcode.
 The plugin allows to create content spoilers with simple shortcode.
 
 Example
-
 `
 [spoiler title="Expand Me"]Spoiler content[/spoiler]
 `
@@ -29,7 +28,7 @@ Example
 
 == Frequently Asked Questions ==
 
-= How do I can customize design of the spoilers =
+= How do I can customize design of the spoilers? =
 To change layout of a spoiler, please, edit `styles/is-styles.css` file.
 
 == Screenshots ==
