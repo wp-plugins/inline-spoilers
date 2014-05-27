@@ -16,7 +16,6 @@ The plugin allows to create content spoilers with simple shortcode.
 The plugin allows to create content spoilers with simple shortcode.
 
 Example
-
 `
 [spoiler title="Expand Me"]Spoiler content[/spoiler]
 `
@@ -29,19 +28,15 @@ Example
 
 == Frequently Asked Questions ==
 
-= How do I can customize design of the spoilers =
+= How do I can customize design of the spoilers? =
 To change layout of a spoiler, please, edit `styles/is-styles.css` file.
 
 == Screenshots ==
 
-1. To add a spoiler to your post/page just put hidden content between [spoiler] shortcode:
-`/assets/shortcode.png`
 
-2. After adding shortcode you'll see collapsed spoiler in your post/page:
-`/assets/collapsed_spoiler.png`
-
-Expanded spoiler:
-`/assets/expanded_spoiler.png`
+1. Add a spoiler to your post/page just put hidden content between [spoiler] shortcode
+2. Collapsed spoiler in your post/page
+3. Expanded spoiler
 
 == Changelog ==
 
