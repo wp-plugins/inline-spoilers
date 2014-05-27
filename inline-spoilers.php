@@ -3,7 +3,7 @@
 Plugin Name: Inline Spoilers
 Plugin URI: http://kuzmi.ch
 Description: The plugin allows to create content spoilers with simple shortcode.
-Version: 1.1.2
+Version: 1.1
 Author: Sergey Kuzmich
 Author URI: http://kuzmi.ch
 License: GPLv2
@@ -11,7 +11,7 @@ License: GPLv2
 
 /**
  * @package Inline Spoilers
- * @version 1.1.2
+ * @version 1.1
  * @since 1.0
  */
 
