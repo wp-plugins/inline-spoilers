@@ -9,7 +9,6 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 The plugin allows to create content spoilers with simple shortcode.
-[spoiler title="Expand Me"]Spoiler content[/spoiler]
 
 == Description ==
 
