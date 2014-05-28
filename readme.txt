@@ -41,6 +41,6 @@ To change layout of a spoiler, please, edit `styles/is-styles.css` file.
 = 1.0 =
 * Plugin release.
 
-== Arbitrary section ==
+== Other Notes ==
 
 [GitHub Repo](https://github.com/SergeyKuzmich/inline-spoilers)
