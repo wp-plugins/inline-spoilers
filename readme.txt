@@ -35,6 +35,9 @@ To change layout of a spoiler, please, edit `styles/is-styles.css` file.
 
 == Changelog ==
 
+= 1.0.2 =
+* Update Russian translation
+
 = 1.0.1 =
 * Plugin Release
 
