@@ -4,7 +4,7 @@ Donate link: http://kuzmi.ch
 Tags: shortcode, spoiler
 Requires at least: 3.9.1
 Tested up to: 3.9.1
-Stable tag: 1.0.2
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,6 +34,11 @@ To change layout of a spoiler, please, edit `styles/is-styles.css` file.
 3. Expanded spoiler
 
 == Changelog ==
+
+= 1.1.2 =
+* Update Russian translation
+* Add attribute 'initial_state' to define default state of a spoiler `initial_state=(expanded|collapsed)`. Default state is 'collapsed'
+* Security updates
 
 = 1.0.2 =
 * Update Russian translation
