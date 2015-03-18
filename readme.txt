@@ -26,11 +26,11 @@ To change layout of a spoiler, please, edit `styles/inline-spoilers-styles.css` 
 
 = How to remove text from the title? =
 To remove default title you can use
-```
+`
 [spoiler title="&nbsp;"]
 ...
 [/spoiler]
-```
+`
 
 == Screenshots ==
 
