@@ -3,7 +3,7 @@ Contributors: sergeykuzmich
 Tags: shortcode, spoiler
 Requires at least: 3.9.1
 Tested up to: 4.1.1
-Stable tag: 1.2.4
+Stable tag: 1.2.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,9 @@ To remove default title you can use
 == Changelog ==
 
 = 1.2.4 =
+* Update spoiled content formatting method
+
+= 1.2.4 =
 * Add WP_DEBUG mode
 * Fix incorrect paragraph tags inside the spoiler
 
@@ -60,7 +63,3 @@ To remove default title you can use
 
 = 1.0.1 =
 * Plugin Release
-
-== For Developers ==
-
-[GitHub Repo](https://github.com/SergeyKuzmich/inline-spoilers)
